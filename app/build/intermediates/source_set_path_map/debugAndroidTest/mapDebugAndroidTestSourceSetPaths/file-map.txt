@@ -1,0 +1,5 @@
+com.example.cp2mobile.test.app-core-1.6.1-0 C:\Users\rebec\.gradle\caches\transforms-4\068f692f8b4134520daf07fa6800210e\transformed\core-1.6.1\res
+com.example.cp2mobile.test.app-androidTest-1 C:\Users\rebec\AndroidStudioProjects\cp2mobile\app\build\generated\res\resValues\androidTest\debug
+com.example.cp2mobile.test.app-mergeDebugAndroidTestResources-2 C:\Users\rebec\AndroidStudioProjects\cp2mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.cp2mobile.test.app-mergeDebugAndroidTestResources-3 C:\Users\rebec\AndroidStudioProjects\cp2mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.cp2mobile.test.app-debugAndroidTest-4 C:\Users\rebec\AndroidStudioProjects\cp2mobile\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

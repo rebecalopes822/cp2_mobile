@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_categories">
+        <item>Estudante</item>
+        <item>Profissional</item>
+        <item>Organizador</item>
+    </string-array>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="secondaryColor">#03DAC6</color>
+    <color name="textColor">#212121</color>
+    <string name="app_name">Cadastro de Participantes</string>
+    <string name="button_send">Cadastrar</string>
+    <string name="error_message">Por favor, preencha todos os campos.</string>
+    <string name="hint_email">Digite seu email</string>
+    <string name="hint_name">Digite seu nome completo</string>
+    <string name="success_message">Cadastro realizado com sucesso!</string>
+    <style name="Base.Theme.Cp2mobile" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Cp2mobile" parent="Base.Theme.Cp2mobile"/>
+</resources>
